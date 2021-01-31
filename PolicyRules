@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <policy>
-	<authorisation-rules id=R1>
-		<rule>
-			<rule-name>Monitor-User</rule-name>
-			<device-type>Actuators</device-type>
-		</rule>
-		<rule>
-			<rule-name>Assist-User</rule-name>
-			<device-type>Actuators</device-type>
-		</rule>
-		<rule>
-			<rule-name>Send-Request</rule-name>
-			<device-type>Mediators</device-type>
-		</rule>
-		<rule>
-			<rule-name>Retreive-Data</rule-name>
-			<device-type>Mediators</device-type>
-		</rule>
-	</authorisation-rules>
 	<obligation-rules id="R2">
 		<rule>
 			<rule-name>Be-Privacy-Respecting</rule-name>
