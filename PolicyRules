@@ -95,7 +95,7 @@
 			</case>
 		</rule>
 		<rule>
-			<rule-name>Transparent-in-Actions</rule-name>
+			<rule-name>Be-Transparent-in-Actions</rule-name>
 			<device-type>Actuators</device-type>
 			<case>
 				<condition>
