@@ -315,8 +315,4 @@
 			</case>
 		</rule>
 	</obligation-rules>
-	<prohibition-rule id="R3">
-		<device-type>Actuators</device-type>
-		<action-type>Refrain-Breaking-Obligation-Rules</action-type>
-	</prohibition-rule>
 </policy>
