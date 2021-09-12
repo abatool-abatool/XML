@@ -3,7 +3,7 @@
 	<obligation-rules id="R2">
 		<rule>
 			<rule-name>Be-Privacy-Respecting</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -47,7 +47,7 @@
 		</rule>
 		<rule>
 			<rule-name>Be-Polite</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -96,7 +96,7 @@
 		</rule>
 		<rule>
 			<rule-name>Be-Transparent-in-Actions</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -140,7 +140,7 @@
 		</rule>
 		<rule>
 			<rule-name>Be-Attentive</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -184,7 +184,7 @@
 		</rule>
 		<rule>
 			<rule-name>Secure-User-Data</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -228,7 +228,7 @@
 		</rule>
 		<rule>
 			<rule-name>Handle-Task-Failures</rule-name>
-			<device-type>Actuators</device-type>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
@@ -271,8 +271,8 @@
 			</case>
 		</rule>
 		<rule>
-			<rule-name>Be-Accountable</rule-name>
-			<device-type>Actuators</device-type>
+			<rule-name>Be-Prudent</rule-name>
+			<device-type>Devices</device-type>
 			<case>
 				<condition>
 					<device>Smart-Robot</device>
